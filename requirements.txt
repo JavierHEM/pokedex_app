@@ -1,0 +1,27 @@
+# requirements.txt
+
+# GUI
+customtkinter==5.2.1
+pillow==10.1.0
+
+# Base de datos
+pymysql==1.1.0
+cryptography==41.0.5
+
+# API y Red
+requests==2.31.0
+urllib3==2.1.0
+
+# Seguridad
+bcrypt==4.0.1
+
+# Gráficos y Visualización
+matplotlib==3.8.2
+numpy==1.26.2
+
+# Utilidades
+python-dateutil==2.8.2
+configparser==6.0.0
+
+# Desarrollo y Debugging
+logging==0.5.1.2
